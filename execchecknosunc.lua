@@ -1162,19 +1162,6 @@ print("Made by Bdokkx | Join discord.gg/ronix, discord.gg/getgalaxy")
 wait(2)
 print("\n")
 print("\n")
-print("\n")
-print("_________________________________________________________________________________________________________________________________________")
-warn("                                                 running sUNC test in 5 seconds")
-wait(5) 
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HummingBird8/HummingRn/main/sUNCTestGET"))()
-
-
-
-wait(2)
-print("\n")
-print("\n")
-print("\n")
 print("_________________________________________________________________________________________________________________________________________")
 warn("                                                 running Vuln test in 5 seconds")
 wait(5) 
